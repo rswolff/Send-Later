@@ -9,7 +9,8 @@
   gem "compass"
   gem "capistrano"
   gem "mysql"
-
+  gem "whenever"
+  
   # Use unicorn as the web server
   # gem 'unicorn'
 
